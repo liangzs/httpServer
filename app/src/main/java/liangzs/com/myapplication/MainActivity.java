@@ -17,6 +17,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * @author liangzs
+ * @Date 2019/1/7
+ */
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private TextView textView;
